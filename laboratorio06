@@ -1,0 +1,14 @@
+TG6 - Diagrama de Sequência Final do Projeto
+0. Como visualizar o diagrama de sequência final do projeto?
+O diagrama de sequência final do projeto será enviado na plataforma Moodle em formato PDF, entretanto pode ser consumido através do endereço a seguir: https://prnt.sc/209hqwg
+
+1. O quê o diagrama de sequência final do projeto contempla?
+No TG6, desenvolvemos o caso de uso “Buscar Evento”, que segue o seguinte fluxo:
+
+O aplicativo é iniciado e dispara a função “capturaOpcao()”;
+Usuário (no papel de participante de evento) seleciona a opção “Buscar Evento”;
+A opção selecionada pelo usuário é armazenada no atributo “codigoOpcao” do “:EventoController”;
+Em seguida, o controlador se comunica com todas as classes modelo (:Evento, :Ingresso, :Local e :Usuario) passando o “nomeEvento” como parâmetro;
+Posteriormente, todas as classes modelo retornam as suas respectivas informações (dadosEvento, dadosIngresso, dadosLocal e dadosUsuario) utilizando o tipo de dado lista;
+Todas as listas são armazenadas no atributo “cDados” do “:EventoController”, pois ele possui o tipo de dado tupla (lista de listas);
+Por fim, retornamos os dados para o “Usuario (Participante)”;
