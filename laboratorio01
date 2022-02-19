@@ -1,0 +1,30 @@
+TG1 - Definição da Demanda de Desenvolvimento
+0. Resumo do projeto
+Para acessar o nosso canvas e conhecer um rápido resumo do projeto acesse https://prnt.sc/1r5vqeg.
+
+1. O problema ou oportunidade percebida
+Vivendo quase dois anos inseridos em um contexto de pandemia, viu-se a necessidade de gerenciar de uma melhor forma os encontros que tínhamos antes desse cenário. Sendo assim, visando tornar esse período tão complexo mais leve e retomar parte das interações sociais, essas que são de grande valor para o desenvolvimento humano, encontramos a oportunidade de desenvolver um aplicativo para gerenciar encontros, sejam eles: de conhecidos, colegas, amigos, namorados ou até mesmo pequenas confraternizações.
+
+2. Razão ou justificativa para esta demanda
+Como uma consequência da pandemia, tivemos o isolamento social, algo que quando aplicado ao momento em que estamos vivendo é completamente necessário e aplicável. Por outro lado, devido ao mesmo fenômeno, tivemos uma alta na taxa de desencadeamento de problemas relacionados a saúde mental. Dessa forma, queremos trazer um pouco de alívio e conforto, através das interações sociais realizadas com responsabilidade, em prol de aliviar um momento tão complexo na vida dos indivíduos.
+
+3. A descrição sucinta do produto de software que será produzido
+Em um breve resumo, o aplicativo desenvolvido funcionará como uma espécie de rede social, onde o usuário poderá criar o seu perfil e agendar encontros, esses que irão obedecer às restrições pré-definidas no app, de modo que não serão permitidos a organização de eventos com superlotações, ambientes de risco e outras situações que podem colocar a saúde e bem-estar das pessoas em jogo.
+
+4. Identifique os clientes, usuários e demais envolvidos/impactados com o produto
+No momento atual, enxergamos duas entidades que podem ser impactadas com o desenvolvimento do produto, são elas: usuários e locais. • Usuário: poderão exercer dois papeis, são eles: organizador de eventos e participante. O primeiro poderá marcar eventos, esses que terão restrições e limitações devido ao contexto da pandemia, que caso sejam violados, as consequências serão de total responsabilidade do organizador e demais envolvidos, isentando assim o aplicativo; o segundo poderá participar dos eventos agendados. • Locais: será o ponto de encontro onde os usuários do aplicativo irão celebrar. Vale ressaltar que o que será feito nesses locais é de responsabilidade única dos envolvidos (organizadores e participantes), de modo que o aplicativo é apenas um meio para marcar eventos em prol das relações interpessoais.
+
+5. Descreva, em linhas gerais, quais as principais etapas necessárias para construir este produto
+Acredito que como em todo projeto a principal necessidade é o conhecimento de causa, ou seja, conhecer como os eventos são realizados e agendados durante o contexto no qual estamos vivendo sem a existência do aplicativo. Dessa forma, poderemos identificar os pontos mais importantes e atuar diretamente neles, a fim de saná-los e trazer uma melhor experiência para o usuário final. Sendo assim, acredito que uma boa forma de desenvolver o produto seria utilizarmos a metodologia SDLC (System Development Life Cycle), a qual nos permite levantar os requisitos, criar um protótipo do projeto, implementá-lo, testar e evoluirmos, de forma cíclica, podendo assim utilizar a experiência e feedback do usuário como um método de progresso para o desenvolvimento.
+
+6. Descreva quais recursos a equipe dispõe para este desenvolvimento
+Inicialmente temos pouco conhecimento do negócio, entretanto, temos vontade de aprender e discutir as ideias relacionadas ao desenvolvimento do produto. Sendo assim, acredito que com algumas pesquisas relacionadas a aplicativos com a mesma finalidade, poderemos expandir o conhecimento e gerar insights que agregarão valor ao produto que será desenvolvido.
+
+7. Identifique os principais critérios de qualidade para o produto
+Dentro do aplicativo, criaremos um sistema de avaliação para os usuários (organizadores e participantes) e para os locais, a fim de destacar e dar mais visibilidade aos que possuírem melhores avaliações, trazendo assim, uma melhor experiência para todos os envolvidos com o aplicativo. Outra grande preocupação é relacionada aos ambientes disponíveis para realizar eventos, desse jeito, implementaremos um sistema de controle onde o usuário organizador só poderá agendar encontros em locais seguros para o bem-estar de todos.
+
+8. Avalie os riscos
+Dentre os riscos iniciais podemos prever: • Conhecimento a cerca do tema do projeto, pois por ser algo amplo podemos nos confundir facilmente em relação a finalidade do produto. • Participação de indivíduos que não são usuários do aplicativo, ou seja, que não foram cadastrados no evento, podendo causar aglomerações e desconfortos para os demais participantes, ou até mesmo problemas para o local do evento.
+
+9. Observações
+Todo material abordado nessa página será entregue na plataforma Moodle no formato PDF, além do endereço para acessar o GitHub do projeto.
